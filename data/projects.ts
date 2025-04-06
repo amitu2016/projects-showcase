@@ -17,7 +17,7 @@ export interface Project {
       title: 'Portfolio Website',
       description: 'A personal portfolio showcasing my skills and experience.',
       screenshots: ['/project2-screenshot.png'],
-      githubLink: 'hhttps://github.com/amitu2016/amit-portfolio',
+      githubLink: 'https://github.com/amitu2016/amit-portfolio',
       liveDemoLink: 'https://amitupadhyay.co.in',
       tags: ['Frontend', 'Next.js', 'Tailwind CSS'],
       details: 'Designed with a dark theme and interactive animations using Framer Motion.',
